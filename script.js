@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const requestBody = Object.fromEntries(formData);
 
         try {
-            const response = await fetch('https://my-project-3-uelo.onrender.com/register', {
+            const response = await fetch('https://my-project-14bs.onrender.com/register', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
